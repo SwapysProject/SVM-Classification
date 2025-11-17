@@ -19,7 +19,7 @@ build/
 .ipynb_checkpoints/
 
 # Model files
-*.pkl
+
 *.npz
 *.npy
 *.h5
